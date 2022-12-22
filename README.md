@@ -1,4 +1,7 @@
 # Explainable AI for Image Classification
+
+[![View xai-image-classification on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/122407-xai-image-classification)
+
 This repository shows an example of how to use MATLAB to produce post-hoc explanations -- using [Grad-CAM](https://www.mathworks.com/help/deeplearning/ref/gradcam.html) -- for two image classification tasks. 
 
 ## Requirements
