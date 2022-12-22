@@ -1,5 +1,5 @@
 # Explainable AI for Image Classification
-This repository shows an example of how to use MATLAB to produce post-hoc explanations (using [Grad-CAM](https://www.mathworks.com/help/deeplearning/ref/gradcam.html) for two image classification tasks. 
+This repository shows an example of how to use MATLAB to produce post-hoc explanations -- using [Grad-CAM](https://www.mathworks.com/help/deeplearning/ref/gradcam.html) -- for two image classification tasks. 
 
 ## Requirements
 - [X]  [MATLAB 2022b](https://www.mathworks.com/products/matlab.html) or later
